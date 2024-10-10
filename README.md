@@ -1,7 +1,8 @@
 # Ai_Prompt_Responder
-Start the project:
+To start the project:
 
 USING NPM
+
 npm i OR npm i --legacy-peer-deps
 npm run dev
 
